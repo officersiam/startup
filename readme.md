@@ -1,1 +1,5 @@
-#This is Latest Bootstrap HTML BoilerPlate
+- 👋 HTML Boilerplate 5 v8.0.0
+- 👀 Bootstrap 5
+- 🌱 Font Awesome 5.15.3
+- 💞️ UIKit 3.7.1
+- 📫 Fully Updated
